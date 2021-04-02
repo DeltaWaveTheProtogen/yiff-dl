@@ -12,5 +12,5 @@ python yiff-dl.py <url1> <url2> <url3>...   #As simple as that!
 you can also supply a .txt file to batch download comics by adding -b before the .txt address:
 
 ```
-python yiff-dl.py -b link.txt   #As simple as that!
+python yiff-dl.py -b link.txt
 ```
