@@ -3,6 +3,9 @@ Download pools and comics easily from either E621 or Yiffer.xyz with this handy 
 
 The yifferx.xyz downloading code was found on a repo a while ago and subsequently modified by me, while the E621 download logic is brand new
 
+<h1>Requirements</h1>
+This script requires python 3.8 and above 
+
 <h1>Usage</h1>
 
 The script creates a directory for each comic
