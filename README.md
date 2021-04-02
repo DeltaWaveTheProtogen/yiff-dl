@@ -9,8 +9,8 @@ This script requires python 3.8 and above with the following packages:
 img2pdf
 BeautifulSoup
 PIL
-
 ```
+
 <h1>Usage</h1>
 
 The script creates a directory for each comic
