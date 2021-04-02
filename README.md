@@ -5,11 +5,14 @@ The yifferx.xyz downloading code was found on a repo a while ago and subsequentl
 
 <h1>Requirements</h1>
 This script requires python 3.8 and above with the following packages:
+
 ```
 img2pdf
 BeautifulSoup
 PIL
+
 ```
+
 
 <h1>Usage</h1>
 
