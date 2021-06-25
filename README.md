@@ -10,7 +10,6 @@ This script requires python 3.8 and above with the following packages:
 img2pdf
 BeautifulSoup
 PIL
-
 ```
 
 
